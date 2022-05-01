@@ -896,7 +896,7 @@ input:required {
       z-index: 1;
       font-weight: 700;
       font-size: 90px;
-      text-transform: uppercase;
+      
       display: block;
       margin-bottom: 10px;
       color: #ffffff; }
@@ -1165,7 +1165,7 @@ input:required {
     font-size: 14px;
     font-weight: 500;
     color: #df42b1;
-    text-transform: uppercase;
+   
     letter-spacing: 1px;
     border-bottom: 2px solid #4b4d7b;
     margin-bottom: 20px;
@@ -1174,7 +1174,7 @@ input:required {
   .about-us-countdown-area .about-content-text h3 {
     font-size: 40px;
     color: #ffffff;
-    text-transform: uppercase;
+   
     letter-spacing: 1px;
     margin-bottom: 20px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2507,8 +2507,7 @@ input:required {
     padding: 10px 25px;
     display: inline-block;
     letter-spacing: 1px;
-    text-transform: uppercase;
-    color: #ffffff;
+        color: #ffffff;
     border-radius: 0 0 5px 5px;
     margin-bottom: 25px;
     line-height: 1; }
